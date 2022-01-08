@@ -1,0 +1,1 @@
+execute if score @s food matches 1 run function pacdata:food
